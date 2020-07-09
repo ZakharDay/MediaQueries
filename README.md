@@ -28,6 +28,8 @@
 **1194 x 834** — iPad Pro 11’’ Landscape
 
 ## Desktop & Laptop
+**1152 x 720** — 12’’ MacBook
+
 **1280 x 800** — 13’’ MacBook Pro
 
 **1366 x 768** — Old Laptops
