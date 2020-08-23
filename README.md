@@ -1,5 +1,5 @@
 # Apple Devices Screens
-[Figma frames for all devices](https://www.figma.com/file/N6RgqudOqWD7tPBJwbSkpV/Apple-Device-Screen-Resolutions)
+[Figma frames for all devices](http://bit.ly/AppleDeviceScreenResolutions)
 
 ## Phone
 **320 x 568** — iPhone 5
