@@ -55,6 +55,8 @@ http://iosres.com
 
 https://ios-resolution.com/
 
+https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/image-size-and-resolution/
+
 https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html
 
 https://www.laptopmag.com/articles/laptop-screen-resolution-ripoff
