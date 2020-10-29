@@ -58,3 +58,5 @@ https://www.apple.com
 https://www.laptopmag.com/articles/laptop-screen-resolution-ripoff
 
 https://css-tricks.com/snippets/css/retina-display-media-query/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
