@@ -53,7 +53,9 @@ https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
 
 http://iosres.com
 
-https://www.apple.com
+https://ios-resolution.com/
+
+https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html
 
 https://www.laptopmag.com/articles/laptop-screen-resolution-ripoff
 
